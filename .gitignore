@@ -1,0 +1,8 @@
+# Private/local source implementation. Keep source URLs, headers,
+# credentials, selectors, and scraping logic out of Git.
+RecruitingCalendar.widget/source_adapter.py
+
+# Runtime / macOS
+__pycache__/
+*.pyc
+.DS_Store
